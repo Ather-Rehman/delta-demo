@@ -4,4 +4,4 @@ This is a demo for Git &amp; Github class.
 Ather Rehman
 
 # Student
-My student
+My student.
